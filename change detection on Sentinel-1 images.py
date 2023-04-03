@@ -7,8 +7,8 @@ from datetime import date
 from rasterio.plot import show
 
 # Set your Copernicus Open Access Hub credentials
-username = 'muhannadsarsat'
-password = 'Ms!42302658'
+username = 'PutyourUserNameHere'
+password = 'PutYourPasswordHere'
 
 # Define the area of interest and time range
 aoi_geojson = {
